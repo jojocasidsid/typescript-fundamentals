@@ -11,7 +11,7 @@ const persons: {
 };
 
 let favoriteActivities: string[];
-favoriteActiveites = ["Sports"];
+favoriteActivities = ["Sports"];
 console.log(persons.name);
 
 for (const hobby of persons.hobbies) {
